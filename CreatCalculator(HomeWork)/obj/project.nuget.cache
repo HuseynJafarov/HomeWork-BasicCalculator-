@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2AVLLbVJuqWc8c4Bet97Smhkaj/u10zSs00dsq4hA++/WUGyi8Q1QSnfrfO1v/qn8whhpTj2m37VulSnOaZR+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\C#\\CodeHomeWork1\\CreatCalculator(HomeWork)\\CreatCalculator(HomeWork)\\CreatCalculator(HomeWork).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

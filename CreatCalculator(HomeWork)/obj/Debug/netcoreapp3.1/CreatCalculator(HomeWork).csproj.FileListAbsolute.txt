@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#\CodeHomeWork1\CreatCalculator(HomeWork)\CreatCalculator(HomeWork)\obj\Debug\netcoreapp3.1\CreatCalculator(HomeWork).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\CodeHomeWork1\CreatCalculator(HomeWork)\CreatCalculator(HomeWork)\obj\Debug\netcoreapp3.1\CreatCalculator(HomeWork).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\CodeHomeWork1\CreatCalculator(HomeWork)\CreatCalculator(HomeWork)\obj\Debug\netcoreapp3.1\CreatCalculator(HomeWork).AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\CodeHomeWork1\CreatCalculator(HomeWork)\CreatCalculator(HomeWork)\obj\Debug\netcoreapp3.1\CreatCalculator(HomeWork).AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\CodeHomeWork1\CreatCalculator(HomeWork)\CreatCalculator(HomeWork)\obj\Debug\netcoreapp3.1\CreatCalculator(HomeWork).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\CodeHomeWork1\CreatCalculator(HomeWork)\CreatCalculator(HomeWork)\bin\Debug\netcoreapp3.1\CreatCalculator(HomeWork).exe
+C:\Users\HP\Desktop\C#\CodeHomeWork1\CreatCalculator(HomeWork)\CreatCalculator(HomeWork)\bin\Debug\netcoreapp3.1\CreatCalculator(HomeWork).deps.json
+C:\Users\HP\Desktop\C#\CodeHomeWork1\CreatCalculator(HomeWork)\CreatCalculator(HomeWork)\bin\Debug\netcoreapp3.1\CreatCalculator(HomeWork).runtimeconfig.json
+C:\Users\HP\Desktop\C#\CodeHomeWork1\CreatCalculator(HomeWork)\CreatCalculator(HomeWork)\bin\Debug\netcoreapp3.1\CreatCalculator(HomeWork).runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\CodeHomeWork1\CreatCalculator(HomeWork)\CreatCalculator(HomeWork)\bin\Debug\netcoreapp3.1\CreatCalculator(HomeWork).dll
+C:\Users\HP\Desktop\C#\CodeHomeWork1\CreatCalculator(HomeWork)\CreatCalculator(HomeWork)\bin\Debug\netcoreapp3.1\CreatCalculator(HomeWork).pdb
+C:\Users\HP\Desktop\C#\CodeHomeWork1\CreatCalculator(HomeWork)\CreatCalculator(HomeWork)\obj\Debug\netcoreapp3.1\CreatCalculator(HomeWork).dll
+C:\Users\HP\Desktop\C#\CodeHomeWork1\CreatCalculator(HomeWork)\CreatCalculator(HomeWork)\obj\Debug\netcoreapp3.1\CreatCalculator(HomeWork).pdb
+C:\Users\HP\Desktop\C#\CodeHomeWork1\CreatCalculator(HomeWork)\CreatCalculator(HomeWork)\obj\Debug\netcoreapp3.1\CreatCalculator(HomeWork).genruntimeconfig.cache
